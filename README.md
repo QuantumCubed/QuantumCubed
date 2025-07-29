@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 👨‍🎓 I graduated from The University of North Carolina at Charlotte, Majoring in Computer Science with a concentration in AI, Minor in Mathematics
+- 👨‍🎓 I graduated from The University of North Carolina at Charlotte. I majored in Computer Science with a concentration in AI and minored in Mathematics
 - 🔭 My favorite genre is ***Science Fiction***
 - 🎮 I enjoy playing all types of games: ***Civilization VI, Minecraft, Genshin Impact, etc.***
 - 🍥 Favorite Anime ***Too many to list***
