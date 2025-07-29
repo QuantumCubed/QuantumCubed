@@ -20,16 +20,19 @@
 ## Goals & Objectives
 - 🧑‍🏫 Increase System Design knowledge
 - 💯 Learn new techniques and technologies to accomplish tasks
-- 📈 Learn the end-end process regarding data from collection to analysis
-- 📱 Make a very useful cross-compatible application
+- 📈 Learn the end-to-end process regarding data from collection to analysis
+- 📱 Make a beneficial cross-compatible application
+- 🦀 Continue learning and improving my Rust skills
+- ∥  Improve my parallel programming skills with CUDA
 
 ## Skills
 
 - 🐳 Docker
-- 🖥️ HTML, CSS, Javascript (Typescript, NGINX, React, Angular, MongoDB)
+- 🖥️ HTML, CSS, JavaScript (Typescript, NGINX, React, MongoDB)
 - 🐍 Python (NumPy, MatPlotLib, OpenCV, PyTorch, SciKit, Pillow)
 - ☕️ Java
 - 📦 C/C++
+- 💾 SHELL/BASH
 
 <!--
 **QuantumCubed/QuantumCubed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
