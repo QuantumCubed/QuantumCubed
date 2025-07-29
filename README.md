@@ -7,7 +7,7 @@
 - 🎮 I enjoy playing all types of games: ***Civilization VI, Minecraft, Genshin Impact, etc.***
 - 🍥 Favorite Anime ***Too many to list***
 - 📺 Favorite TV Show: ***Avatar The Last Airbender***
-- ℁ Favorite Subject: ***Software Engineering (atm)***
+- ℁ Favorite Subject: ***Low Level Systems***
 - 🌐 Computer Language with the most amount of experience: ***Java***
 
 ## Projects
