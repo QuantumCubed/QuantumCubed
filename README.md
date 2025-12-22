@@ -8,10 +8,10 @@
 - 🍥 Favorite Anime ***Too many to list***
 - 📺 Favorite TV Show: ***Avatar The Last Airbender***
 - ℁ Favorite Subject: ***Low Level Systems***
-- 🌐 Computer Language with the most amount of experience: ***Java***
+- 🌐 Computer Language with the most amount of experience: ***Python***
 
 ## Projects
-- ⏯️ Media Streaming Service **(WIP)**
+- ⏯️ Media Streaming Service
 - 📊 Database Facial Recognition
 - 💿 Server Hosting
 - 🛜 ZeroTier VLAN Network
@@ -28,7 +28,7 @@
 ## Skills
 
 - 🐳 Docker
-- 🖥️ HTML, CSS, JavaScript (Typescript, NGINX, React, MongoDB)
+- 🖥️ HTML, CSS, JavaScript (Typescript, NGINX, React, MongoDB, Node.JS)
 - 🐍 Python (NumPy, MatPlotLib, OpenCV, PyTorch, SciKit, Pillow)
 - ☕️ Java
 - 📦 C/C++
