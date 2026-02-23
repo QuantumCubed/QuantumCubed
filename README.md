@@ -2,9 +2,11 @@
 
 ## About Me
 
-- 👨‍🎓 I graduated from The University of North Carolina at Charlotte. I majored in Computer Science with a concentration in AI and minored in Mathematics
+- 👨‍🎓 Alumn from The University of North Carolina at Charlotte
+  * *Major:* **Computer Science** w/concentration in **Artificial Intelligence**
+  * *Minor:* **Mathematics**
 - 🔭 My favorite genre is ***Science Fiction***
-- 🎮 I enjoy playing all types of games: ***Civilization VI, Minecraft, Star Wars Empire at War, etc.***
+- 🎮 I enjoy playing all types of games: ***Civilization VI, Minecraft, Star Wars Empire at War, etc***
 - 🍥 Favorite Anime ***Too many to list***
 - 📺 Favorite TV Show: ***Avatar The Last Airbender***
 - ℁ Favorite Subject: ***Artificial Intelligence***
@@ -16,6 +18,7 @@
 - 💿 Ollama Home AI Server
 - 🛜 QuixC - HTTP Server Implementation in C
 - 📈 Day Trading Bot (WIP)
+- 🖼️ PixGen - Image Generator (WIP)
 
 ## Goals & Objectives
 - 🧑‍🏫 Increase System Design knowledge
