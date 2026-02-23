@@ -4,25 +4,25 @@
 
 - 👨‍🎓 I graduated from The University of North Carolina at Charlotte. I majored in Computer Science with a concentration in AI and minored in Mathematics
 - 🔭 My favorite genre is ***Science Fiction***
-- 🎮 I enjoy playing all types of games: ***Civilization VI, Minecraft, Genshin Impact, etc.***
+- 🎮 I enjoy playing all types of games: ***Civilization VI, Minecraft, Star Wars Empire at War, etc.***
 - 🍥 Favorite Anime ***Too many to list***
 - 📺 Favorite TV Show: ***Avatar The Last Airbender***
-- ℁ Favorite Subject: ***Low Level Systems***
+- ℁ Favorite Subject: ***Artificial Intelligence***
 - 🌐 Computer Language with the most amount of experience: ***Python***
 
 ## Projects
-- ⏯️ Media Streaming Service
-- 📊 Database Facial Recognition
-- 💿 Server Hosting
-- 🛜 ZeroTier VLAN Network
-- ⬇️ Python AV Stream Downloader
+- ⏯️ NOVA - Media Streaming Service
+- 📊 LinkedIn Facial Recognition
+- 💿 Ollama Home AI Server
+- 🛜 QuixC - HTTP Server Implementation in C
+- 📈 Day Trading Bot (WIP)
 
 ## Goals & Objectives
 - 🧑‍🏫 Increase System Design knowledge
-- 💯 Learn new techniques and technologies to accomplish tasks
-- 📈 Learn the end-to-end process regarding data from collection to analysis
-- 📱 Make a beneficial cross-compatible application
-- 🦀 Continue learning and improving my Rust skills
+- 💯 Learn new technologies used in developing enterprise-grade solutions
+- 🧠 Solve problems using Artificial Intelligence to boost efficacy
+- 📱 Learn Swift
+- 🦀 Learn Rust
 - ∥  Improve my parallel programming skills with CUDA
 
 ## Skills
