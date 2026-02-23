@@ -19,6 +19,7 @@
 - 🛜 QuixC - HTTP Server Implementation in C
 - 📈 Day Trading Bot (WIP)
 - 🖼️ PixGen - Image Generator (WIP)
+- 📞 Online Communication Software (WIP)
 
 ## Goals & Objectives
 - 🧑‍🏫 Increase System Design knowledge
